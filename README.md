@@ -7,6 +7,8 @@ After completing my QA Engineer Bootcamp at TripleTen, I worked on several pract
 - 🐞 Bug reporting with Jira
 - 🔁 Regression testing
 - 🌐 API validation using Postman
+- 📱 Mobile testing  
+- 🗄 SQL & log analysis  
 
 ---
 
@@ -16,36 +18,46 @@ After completing my QA Engineer Bootcamp at TripleTen, I worked on several pract
 **Description:**  
 Designed and executed functional test cases for a web application, identifying and documenting critical bugs before deployment.
 
-**Tools:**  Google Sheets  
-**Files:**  
+### Tools
+Google Sheets | Jira | Chrome DevTools
+
+### Files:  
 - [Test Cases (Google sheets)](https://docs.google.com/spreadsheets/d/1U8e9J4ymCZFVZv-rFqM4Vwof3_jAvUfa/edit?usp=sharing&ouid=104278111216633382410&rtpof=true&sd=true)  
 - [Bug Report Example (Google sheets)](https://docs.google.com/spreadsheets/d/1U8e9J4ymCZFVZv-rFqM4Vwof3_jAvUfa/edit?usp=sharing&ouid=104278111216633382410&rtpof=true&sd=true)  
 
 ---
 
-### 2️⃣ API Testing with Postman  
-**Description:**  
-Validated endpoints using GET, POST, PUT, and DELETE requests, ensuring accurate data exchange between frontend and backend, identifying and documenting critical bugs before deployment.
+## 2️⃣ API Testing with Postman  
+### Description:
+Validated API endpoints using GET, POST, PUT, and DELETE requests to ensure proper communication between frontend and backend systems.
 
-**Tools:** Postman Jira
-**Files:**  
+Identified and documented defects related to data validation and API responses.
+
+### Tools
+Postman | Jira | JSON
+
+### Files: 
 - [Postman Collection (.json)](https://app.getpostman.com/join-team?invite_code=2ac18ad389d4a91b39d6c687573996d212d4b2295e9176b318328f3bff00f2e5&target_code=3a9aa9a7ca8719bf9e8157cdf4b0536e)
-- - [Bug Report Example (Jira Export)](https://rositsmo07.atlassian.net/jira/software/c/projects/S3/issues?jql=project+%3D+%22S3%22+ORDER+BY+created+DESC&atlOrigin=eyJpIjoiNTU0ZWIzYzRlZjVlNDg2YTk0ZjhiNTU5YTZkYTRkNDkiLCJwIjoiaiJ9)  
+- [Bug Report Example (Jira Export)](https://rositsmo07.atlassian.net/jira/software/c/projects/S3/issues?jql=project+%3D+%22S3%22+ORDER+BY+created+DESC&atlOrigin=eyJpIjoiNTU0ZWIzYzRlZjVlNDg2YTk0ZjhiNTU5YTZkYTRkNDkiLCJwIjoiaiJ9)  
 
 
 ---
 
-## 🧠 Skills
-- Manual Testing  
-- Web & API Testing  
-- Regression Testing  
-- Jira, Postman  
-- Test Documentation  
-- Process Mapping  
+# 🧠 Skills
+
+- Manual Testing
+- Functional Testing
+- Regression Testing
+- API Testing
+- Jira & Postman
+- SQL Basics
+- Test Documentation
+- Process Mapping
 
 ---
 
-## 📫 Contact
+# 📫 Contact
+
 📍 Naucalpan, Estado de México  
 📧 [rosemedinaolvera@gmail.com](mailto:rosemedinaolvera@gmail.com)  
 🔗 [LinkedIn](https://www.linkedin.com/in/rosemedol)  
